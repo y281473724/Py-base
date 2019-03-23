@@ -1,0 +1,5 @@
+a=chr(0x025b)
+b=chr(0x2708)
+c=chr(0x00A5)
+d=chr(0x266B)
+print("{0}\n{1}\n{2}\n{3}".format(a,b,c,d))
